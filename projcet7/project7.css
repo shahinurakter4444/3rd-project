@@ -1,0 +1,747 @@
+h1{
+float: left;
+    margin-left: 10px;
+    text-transform: uppercase;
+    color:yellow;
+    opacity: 0.5;
+}
+h1:hover{
+  
+    cursor: pointer;
+    color: red;
+
+}
+
+
+ul{
+
+    margin: 0;
+    padding: 0;
+    background:url(img/brooke-lark-M4E7X3z80PQ-unsplash.jpg) no-repeat;
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+     overflow: hidden;
+    color: whitesmoke;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+ul li {
+display: inline-block;
+    float: right;
+text-align: center;
+   text-decoration: none;
+    height: 30px;
+     width: 100px;
+    border-radius: 10px;
+    border: 1px solid white;
+margin-top: 18px;
+    margin-right: 39px;
+ list-style-type: none;
+  
+}
+ul li a{
+
+text-decoration: none;
+    color: white;
+}
+
+
+
+.dropdown-contant{
+    background: dodgerblue;
+ ;
+    box-shadow: 0 8px 6px 0 rgba(0,0,0,0.3);
+    display: none;
+    position: absolute;
+}
+.dropdown-contant a{
+    display: block;
+    color: #f1f1f1;
+    
+}
+.dropdown-contant a:hover{
+    background:blue;
+    padding-right:100px;
+}
+.dropdown:hover .dropdown-contant{
+   display: block;
+}
+h2{
+color:white;
+text-align: center;
+    margin-top: 150px;
+    font-size: 50px;
+ font-style: italic;
+    text-transform: capitalize;
+}
+h3{
+
+line-height: 1px;
+text-align: center;
+    font-size: 60px;
+    font-weight: 800;
+    text-transform: capitalize;
+   color:white;
+    letter-spacing: 10px;
+}
+.profile-image img{
+height: 200px;
+    width:200px;
+    border-radius: 50px;
+    margin-top: 40px;
+    float: left;
+   
+
+}
+.profile-image h4{
+font-size: 50px;
+float: left;
+    margin-top: 40px;
+    font-style: italic;
+    margin-left: 50px;
+font-weight: bold;
+    text-transform: capitalize;
+
+}
+.profile-image  p{
+font-size: 18px;
+float: left;
+    font-style: italic;
+    margin-left: -220px;
+font-weight: bold;
+    margin-top: 120px;
+display: block;
+}
+
+.profile-image1 img{
+height: 200px;
+    width:200px;
+    border-radius: 100px;
+    margin-top: 50px;
+    float: left;
+    margin-left: 50px;
+
+}
+.profile-image1 h4{
+font-size: 40px;
+float: left;
+    margin-top: 65px;
+    font-style: italic;
+font-weight: bold;
+    text-transform: capitalize;
+    margin-left: 50px;
+    line-height: 1px;
+display: block;
+}
+.profile-image1  p{
+    font-weight: bold;
+    font-style: italic;
+     margin-left: 15px;
+    float: left;
+    font-size: 16px;
+display: block;
+}
+
+.vvv{
+margin-top: 350px;
+background-color: white;
+    height: 400px;
+    
+}
+.sabbir{
+height: 400px;
+    width: 400px;
+float: left;
+
+}
+
+
+ .sabbir2{
+height: 400px;
+    width: 400px;
+float: right;
+
+}
+
+
+hr{
+border: 1px solid blue;
+    width: 30%;
+    margin-left: 60px;
+  float: left;
+    margin-top: -5px;
+    
+}
+
+hr1{
+border: 1px solid blue;
+    width: 30%;
+    margin-left: 60px;
+  float: left;
+    margin-top: -45px;
+    
+}
+.vvv  p{
+font-size: 38px;
+float: left;
+    font-style: italic;
+    margin-left: 250px;
+font-weight: bold;
+    margin-top: 30px;
+
+}
+
+.vvv  h4{
+font-size: 38px;
+float: left;
+    font-style: italic;
+    margin-left: 200px;
+font-weight: bold;
+    margin-top: -8px;
+text-transform: capitalize;
+}
+
+.vvv  t{
+font-size: 18px;
+float: left;
+    font-style: italic;
+  margin-left: 60px;
+font-weight: bold;
+ margin-top: 10px;
+
+}
+
+.box input[type = "sumit"]{
+     border: 0;
+    background:black;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid  black;
+    padding: 14px 40px;
+     width: 100px;
+    outline: none;
+    color: white;
+    font-size: 20px;
+    
+    transition: 0.25s;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 190px;
+   float: left;
+     text-transform: uppercase;
+}
+.box input[type = "sumit"]:hover{
+    background: white;
+    color:  black;
+}
+
+
+
+
+
+.vvvv{
+margin-top: 50px;
+background-color:white;
+    height: 1000px;
+    
+}
+
+.vvvv  p{
+font-size: 38px;
+    text-align: center;
+    font-style: italic;
+    text-transform: uppercase;
+font-weight: 800;
+    margin-top: 10px;
+
+}
+
+hr2{
+border: 2px dotted red;
+    width: 30%;
+    margin-left: 450px;
+  float: left;
+    margin-top: -30px;
+    opacity: 20;
+}
+
+hr3{
+
+border:2px dashed  lawngreen;
+    width: 35%;
+    margin-left: 410px;
+  float: left;
+    margin-top: -14px;
+    
+}
+
+ .sonda{
+height: 400px;
+    width: 400px;
+float: left;
+     margin-left: 25px;
+     margin-top: 25px;
+
+}
+
+
+.box1 input[type = "sumit"]{
+     border: 0;
+    background:black;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid  black;
+    padding: 14px 40px;
+     width: 100px;
+    outline: none;
+    color: white;
+    font-size: 20px;
+    
+    transition: 0.25s;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 590px;
+   float: left;
+     text-transform: uppercase;
+}
+.box1 input[type = "sumit"]:hover{
+    background: white;
+    color:  black;
+}
+
+.vvvv{
+margin-top: 50px;
+background-color:white;
+    height: 1000px;
+    
+}
+
+.vvvv  p{
+font-size: 38px;
+    text-align: center;
+    font-style: italic;
+    text-transform: uppercase;
+font-weight: 800;
+    margin-top: 10px;
+
+}
+.vvvv{
+margin-top: 50px;
+background-color:white;
+    height: 1000px;
+    
+}
+
+.vvvv  p{
+font-size: 38px;
+    text-align: center;
+    font-style: italic;
+    text-transform: uppercase;
+font-weight: 800;
+    margin-top: 10px;
+
+}
+.vvvvv{
+margin-top: 500px;
+background-color:burlywood;
+    height: 1500px;
+    
+}
+
+.vvvvv  h2{
+font-size: 38px;
+    text-align: center;
+    font-style: italic;
+    text-transform: uppercase;
+font-weight: 800;
+    max-height: 60px;
+    margin-top:4px;
+color:blue;
+    
+}
+
+.vvvvv p{
+    font-size: 28px;
+    text-align: center;
+    font-style: italic;
+    text-transform: capitalize;
+font-weight: 800;
+    margin-top: 17px;
+color: black;
+
+    text-align: center;
+}
+.n{
+height: 200px;
+    width: 200px;
+    border-radius: 100px;
+   margin-top: 240px;
+float: left;
+    margin-left: 60px;
+}
+
+
+
+.nn{
+height: 200px;
+    width: 200px;
+    border-radius: 100px;
+margin-left: 180px;
+float: left;
+ 
+margin-top: 70px;
+}
+
+.nnn{
+height: 200px;
+    width: 200px;
+    border-radius: 100px;
+margin-left: 450px;
+float: left;
+       margin-top: 55px;
+
+}
+
+.nnnn{
+height: 200px;
+    width: 200px;
+    border-radius: 100px;
+margin-left: 120px;
+float: left;
+margin-top: 380px;
+}
+
+.nnnnn{
+height: 200px;
+    width: 200px;
+    border-radius: 100px;
+margin-left: 180px;
+float: left;
+margin-top:-180px;
+}
+
+
+.nnnnnn{
+height: 200px;
+    width: 200px;
+    border-radius: 100px;
+margin-left: 200px;
+float: left;
+margin-top: 140px;
+}
+.l{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    font-size: 30px;
+}
+.laft-div{
+    margin-top: 10px;
+    width: 500px;
+    height: 90px;
+    background-color:white;
+    float: left;
+    margin-left: 540px;
+}
+
+
+.p-tag{
+color: black;
+    font-size: 15px;
+  float: left;
+ margin-bottom: 30px;
+    margin-left: 100px;
+}
+.doulb{
+background-color:white;
+    width: 45px;
+    height: 43px;
+    float:left;
+    margin-left:-40px;
+    transform: rotate(-25deg);
+    margin-bottom: 10px;
+   display:inline-block;
+    margin-top: -53px;
+}
+
+
+
+
+
+
+
+
+.b{
+margin-top: 1320px;
+background-color:antiquewhite;
+    height: 420px;
+    
+}
+.b h4{
+    margin-top: 100px;
+    font-size: 40px;
+    float: left;
+    font-style: oblique;
+    text-transform: capitalize;
+    margin-left: 190px;
+}
+
+.b p{
+   margin-top: -35px;
+    font-size: 20px;
+    float: left;
+    font-style: italic;
+    text-transform: capitalize;
+    margin-left: 340px;
+}
+
+
+.box2 input[type = "sumit"]{
+     border: 0;
+    background:linear-Gradient( to right,yellow, red);
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+  
+    padding: 14px 50px;
+     width: 150px;
+    outline: none;
+    color: white;
+    font-size: 20px;
+    font-style: oblique;
+    transition: 0.25s;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 500px;
+   float: left;
+     text-transform: uppercase;
+}
+.box2 input[type = "sumit"]:hover{
+    background: white;
+    color:  red;
+      border: 2px solid red;
+}
+
+
+
+
+
+
+
+
+
+.bb{
+margin-top: -9px;
+background:linear-Gradient( to right, red,yellow);
+    height: 600px;
+    
+}
+.bb img{
+float: left;
+    margin-left: 20px;
+    margin-top:60px;
+    
+}
+
+.bb h5{
+    margin-top: 100px;
+    font-size: 40px;
+    float: left;
+    font-style: oblique;
+    text-transform: capitalize;
+    margin-left: 190px;
+}
+
+.bb p{
+   margin-top: -35px;
+    font-size: 20px;
+    float: left;
+    font-style: italic;
+    text-transform: capitalize;
+    margin-left: 160px;
+}
+.o img {
+    border: 1px solid white;
+    margin-top: 160px;
+    height:80px;
+    width: 80px;
+    float: left;
+    margin-left: -80px;
+}
+
+.box3 input[type = "sumit"]{
+     border: 0;
+    background:url(img/IMG_20200618_205856-removebg-preview.png) no-repeat;
+    background-size: 40px;
+background-origin: content-box;
+    height: 35px;
+    width: 260px;
+    display: block;
+    margin-left: 20px;
+    text-align: right;
+    border: 2px solid white;
+    padding: 14px 40px;
+     border-radius: 50px;
+    outline: none;
+    color: black;
+    font-size: 20px;
+    font-style: oblique;
+    transition: 0.25s;
+    cursor: pointer;
+    margin-top: 100px;
+    
+    margin-left: -510px;
+   float: left;
+     text-transform: capitalize;
+}
+
+
+
+
+
+
+.box4 input[type = "sumit"]{
+     border: 0;
+    background:url(img/download-removebg-preview.png) no-repeat;
+    background-size: 60px;
+
+    height: 35px;
+    width: 200px;
+    display: block;
+    margin-left: 20px;
+    text-align: right;
+    border: 2px solid white;
+    padding: 14px 40px;
+     border-radius: 50px;
+    outline: none;
+    color: black;
+    font-size: 20px;
+    font-style: oblique;
+    transition: 0.25s;
+    cursor: pointer;
+    margin-top: 100px;
+    
+    margin-left: -100px;
+   float: left;
+     text-transform: capitalize;
+}
+
+
+
+.bbbb{
+margin-top: -100px;
+background:beige;
+    height: 500px;
+    
+    
+}
+.bbbb p{
+color: black;
+margin-top: 90px;
+margin-left: 50px;
+}
+.bbbb img{
+
+height: 400px;
+    width: 600px;
+    float: left;
+margin-top: 30px;
+}
+.bbbb k{
+
+ margin-top: -300px;
+    font-size: 20px;
+    float: left;
+    font-style: italic;
+    text-transform: capitalize;
+    margin-left: 620px;
+
+}
+
+hr4{
+border: 2px solid red;
+    width: 20%;
+    margin-left: 550px;
+  float: left;
+    margin-top: -20px;
+    opacity: 20;
+}
+
+hr5{
+
+border:2px solid  lawngreen;
+    width: 25%;
+    margin-left: 510px;
+  float: left;
+    margin-top: -10px;
+    
+}
+
+
+
+.bottom-container{
+    background-color:lightgray ;
+    text-align: left;
+    padding: 20px;
+   
+}
+.bottom-container a{
+    color: wheat;
+    text-decoration:none;
+    margin: 20px;
+}
+.bottom-container a:hover{
+    text-decoration: underline;
+     color:tomato;
+    
+}
+.bottom-container p{
+    color: firebrick;
+    margin-top: 20px;
+ text-align: left;
+    font-size: 20px;
+}
+.bottom-container p:hover{
+    text-decoration: underline;
+     color:tomato;
+    
+}
+.bottom-container img{
+margin-top: -70px;
+height: 60px;
+    width: 60px;
+float: right;
+    border-radius: 30px;
+}
+.f{
+
+margin-top: -70px;
+height: 60px;
+    width: 60px;
+float: right;
+    margin-right: 80px;
+    border-radius: 30px;
+}
+
+.ff{
+
+margin-top: -70px;
+height: 60px;
+    width: 60px;
+float: right;
+    margin-right: 160px;
+    border-radius: 30px;
+}
+
+.fff{
+
+margin-top: -70px;
+height: 60px;
+    width: 60px;
+float: right;
+    margin-right: 240px;
+    border-radius: 30px;
+}
